@@ -31,7 +31,7 @@ The objective of this task was to create an interactive and responsive landing p
 ## 📷 Screenshots
 
 ### Hero Section
-![Landing Page](screenshots/homepage.png)
+<img width="800" height="380" alt="image" src="https://github.com/user-attachments/assets/419b29b7-139d-4acd-be70-2f6c8920a6b7" />
 
 ## 🎯 Learning Outcomes
 
@@ -56,10 +56,10 @@ SCT_WD_1/
 
 ## 🌐 Live Demo
 
-Add your GitHub Pages link here.
+https://lnkd.in/gMPqVh2Q
 
 ## 👨‍💻 Author
 
-Developed by [Your Name]
+Developed by Shivam Sharma.
 
 SkillsCraft Technology Internship - Task 01
