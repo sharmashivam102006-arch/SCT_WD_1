@@ -56,7 +56,7 @@ SCT_WD_1/
 
 ## 🌐 Live Demo
 
-https://lnkd.in/gMPqVh2Q
+https://saasify-beryl.vercel.app/
 
 ## 👨‍💻 Author
 
